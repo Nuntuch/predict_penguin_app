@@ -3,3 +3,5 @@ streamlit-option-menu==0.3.2
 sklearn
 pandas
 plotly
+numpy
+pickle
