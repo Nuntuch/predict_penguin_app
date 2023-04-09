@@ -68,6 +68,5 @@ with tab2:
     
 
 with tab3:
-    st.header("My name is Nuntuch  Thongyoo ID 64130701924")
-    st.write("""
-    This is application for prediction penguin. develop from knownledge of BIS698""")
+    st.header("Evaluations on Five Techniques")
+    st.
