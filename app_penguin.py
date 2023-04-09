@@ -8,7 +8,7 @@ import pickle
 from sklearn.preprocessing import LabelEncoder
 from sklearn.ensemble import RandomForestClassifier
 
- 
+
 # model = pickle.load(open('model.penguins','rb'))
 # island_encoder = pickle.load(open('encoder.island','rb'))
 # sex_encoder = pickle.load(open('encoder.sex','rb'))
